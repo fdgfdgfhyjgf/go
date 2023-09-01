@@ -6,7 +6,7 @@ import html2text
 import requests
 import json
 import streamlit as st
-openai.api_key = "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"
+openai.api_key = "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"
 openai.organization = "org-XXX"
 
 
